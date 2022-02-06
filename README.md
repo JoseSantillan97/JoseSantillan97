@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center"><br><br>
-**JoseSantillan97/JoseSantillan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JoseSantillan97/JoseSantillan97** is a ✨ _special_ ✨ repository
 <br><br>
   👨‍💻 I love bringing designs to life <br>
   📚 I’m currently learning about advanced react and cybersecurity <br>

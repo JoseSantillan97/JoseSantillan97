@@ -5,10 +5,10 @@
 </h1>
 
 <p align="center"><br><br>
-Hi I´m ✨Jose Santillan✨, Frontend Engineer from México
+Hi I´m ✨Jose Santillan✨ Frontend Engineer from México
 <br><br>
   👨‍💻 I love bringing designs to life <br>
-  📚 I’m currently learning about advanced react and cybersecurity <br>
+  📚 I’m currently learning about advanced ReactJS and Cybersecurity <br>
   💬 <a target="_blank" href="https://api.whatsapp.com/send?phone=526771053138">Ask me <a/>anything about from <br>
   📫 How to reach me: <a href="mailto: josesantillan10@gmail.com">josesantillan10@gmail.com<a><br>
 </p>

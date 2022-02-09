@@ -18,17 +18,17 @@ Hi I´m ✨Jose Santillan✨ Frontend Engineer from México
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-    <code><img title="Javascript" height="25" src="https://github.com/JoseSantillan97/JoseSantillan97/blob/master/assets/javascript.svg"></code>
-    <code><img title="Problem Solving" height="25" src="https://github.com/JoseSantillan97/JoseSantillan97/blob/master/assets/problemSolving.png"></code>
-    <code><img title="HTML5" height="25" src="https://github.com/JoseSantillan97/JoseSantillan97/blob/master/assets/html5.svg"></code>
-    <code><img title="CSS" height="25" src="https://github.com/JoseSantillan97/JoseSantillan97/blob/master/assets/css.svg"></code>
-    <code><img title="React" height="25" src="https://github.com/JoseSantillan97/JoseSantillan97/blob/master/assets/react-original.svg"></code>
-    <code><img title="Git" height="25" src="https://github.com/JoseSantillan97/JoseSantillan97/blob/master/assets/git-original.svg"></code>
-    <code><img title="Visual Studio Code" height="25" src="https://github.com/JoseSantillan97/JoseSantillan97/blob/master/assets/vscode.png"></code>
-    <code><img title="JSON" height="25" src="https://github.com/JoseSantillan97/JoseSantillan97/blob/master/assets/json.svg"></code>
-    <code><img title="GitHub" height="25" src="https://github.com/JoseSantillan97/JoseSantillan97/blob/master/assets/github.svg"></code>
-    <code><img title="MySQL" height="25" src="https://github.com/JoseSantillan97/JoseSantillan97/blob/master/assets/mysql.svg"></code>
-    <code><img title="PHP" height="25" src="https://github.com/JoseSantillan97/JoseSantillan97/blob/master/assets/php.svg"></code>
-    <code><img title="VueJS" height="25" src="https://github.com/JoseSantillan97/JoseSantillan97/blob/master/assets/vuejs.svg"></code>
+    <code><img title="Javascript" height="25" src="./assets/javascript.svg"></code>
+    <code><img title="Problem Solving" height="25" src="./assets/problemSolving.png"></code>
+    <code><img title="HTML5" height="25" src="./assets/html5.svg"></code>
+    <code><img title="CSS" height="25" src="./assets/css.svg"></code>
+    <code><img title="React" height="25" src="./assets/react-original.svg"></code>
+    <code><img title="Git" height="25" src="./assets/git-original.svg"></code>
+    <code><img title="Visual Studio Code" height="25" src="./assets/vscode.png"></code>
+    <code><img title="JSON" height="25" src="./assets/json.svg"></code>
+    <code><img title="GitHub" height="25" src="./assets/github.svg"></code>
+    <code><img title="MySQL" height="25" src="./assets/mysql.svg"></code>
+    <code><img title="PHP" height="25" src="./assets/php.svg"></code>
+    <code><img title="VueJS" height="25" src="./assets/vuejs.svg"></code>
 </p>
 <hr>

@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center"><br><br>
-Hi I´m ✨Jose Santillan✨, Frontend Engineer from México
+Hi I´m ✨Jose Santillan✨ Frontend Engineer from México
 <br><br>
   👨‍💻 I love bringing designs to life <br>
   📚 I’m currently learning about advanced react and cybersecurity <br>

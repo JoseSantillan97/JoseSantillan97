@@ -32,3 +32,6 @@ Hi I´m ✨Jose Santillan✨ Frontend Engineer from México
     <code><img title="VueJS" height="25" src="./assets/vuejs.svg"></code>
 </p>
 <hr>
+
+<p>My contributions are being eaten</p>
+<img src="./assets/contributions.gif">

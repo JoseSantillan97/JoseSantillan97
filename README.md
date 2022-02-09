@@ -29,7 +29,7 @@ Hi I´m ✨Jose Santillan✨ Frontend Engineer from México
     <code><img title="GitHub" height="25" src="./assets/github.svg"></code>
     <code><img title="MySQL" height="25" src="./assets/mysql.svg"></code>
     <code><img title="PHP" height="25" src="./assets/php.svg"></code>
-    <code><img title="VueJS" height="25" src="./assets/vuejs.svg"></code>
+    <code><img title="VueJS" height="22" src="./assets/vuejs.png"></code>
 </p>
 <hr>
 
